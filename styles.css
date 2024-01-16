@@ -1,0 +1,59 @@
+
+body {
+    text-align: center;
+}
+
+#tittle {
+    padding-top: 3%;
+    padding-bottom: 2%;
+    background-color: #F8F0E5;
+}
+.intro {
+    margin-bottom: 150px;
+    font-family: sacramento;
+}
+
+.h1 {
+    font-family: Ubuntu;
+}
+
+
+#feature {
+    padding: 5%;
+    background-color: #EADBC8;
+}
+
+/*testimonial section*/
+#testimonial {
+    text-align: center;
+    background-color: #EADBC8;
+}
+.testimonial-images {
+    border-radius: 100%;
+    margin: 10px;
+  }
+
+/*product and sevices*/
+.big-heading {
+    font-family: Anton;
+    padding: 2% 40%;
+}
+
+/*footer section*/
+footer {
+    background-color: #DAC0A3;
+}
+.d-flex {
+    padding-top: 4%;
+}
+
+.Newsletter {
+    text-align: center;
+    padding: 20px 0px;
+}
+
+@media (max-width: 600px) {
+     #footer {
+        text-align: center;
+    }
+}
